@@ -1,4 +1,4 @@
-#ifndef _GAME_H_
+#ifndef _GAME_H_	//防止头文件重复包含
 #define _GAME_H_
 
 #include <stdio.h>
